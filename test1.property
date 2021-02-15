@@ -1,0 +1,7 @@
+accountInfo.acctName=acctName:java.lang.String:0:1:O:accountInfo.acctName:#Пе
+accountInfo.acctNo=acctNo:java.lang.String:0:1:O:accountInfo.acctNo:#Пе
+accountInfo.acctType=acctType:java.lang.String:0:1:O:accountInfo.acctType:#Пе
+accountInfo.acctLeftAmt=acctLeftAmt:java.lang.String:0:1:O:accountInfo.acctLeftAmt:#Пе
+accountInfo.acctTotalAmt=acctTotalAmt:java.lang.String:0:1:O:accountInfo.acctTotalAmt:#Пе
+accountInfo.acctBrNo=acctBrNo:java.lang.String:0:1:O:accountInfo.acctBrNo:#Пе
+accountInfo.acctTellerNo=acctTellerNo:java.lang.String:0:1:O:accountInfo.acctTellerNo:#Пе
